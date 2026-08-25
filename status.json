@@ -7,8 +7,8 @@
       "id": 1,
       "project": "the-invite-2026",
       "status": "rejected",
-      "attempts": 1,
-      "last_error": "LLM isteği reddedildi: HTTP 410",
+      "attempts": 2,
+      "last_error": "LLM isteği reddedildi: HTTP 400",
       "result": {
         "selected_reference_pairs": 0,
         "alignment_coverage": 0,
@@ -21,14 +21,14 @@
         }
       },
       "created_at": 1787616703,
-      "updated_at": 1787616704
+      "updated_at": 1787617110
     }
   ],
   "health": {
     "state": "rejected",
-    "updated_at": "2026-08-25T00:11:44+00:00",
+    "updated_at": "2026-08-25T00:18:30+00:00",
     "job_id": 1,
     "project": "the-invite-2026"
   },
-  "last_backup": 1787617064
+  "last_backup": 1787617110
 }
