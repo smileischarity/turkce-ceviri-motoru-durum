@@ -1,0 +1,12 @@
+{
+  "counts": {},
+  "recent": [],
+  "health": {
+    "state": "starting",
+    "updated_at": "",
+    "job_id": null,
+    "project": ""
+  },
+  "last_backup": 0
+}
+
