@@ -7,8 +7,8 @@
       "id": 1,
       "project": "the-invite-2026",
       "status": "rejected",
-      "attempts": 2,
-      "last_error": "LLM isteği reddedildi: HTTP 400",
+      "attempts": 3,
+      "last_error": "LLM isteği reddedildi: HTTP 400: [{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Please pass a valid API key\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n]",
       "result": {
         "selected_reference_pairs": 0,
         "alignment_coverage": 0,
@@ -21,14 +21,14 @@
         }
       },
       "created_at": 1787616703,
-      "updated_at": 1787617110
+      "updated_at": 1787617207
     }
   ],
   "health": {
     "state": "rejected",
-    "updated_at": "2026-08-25T00:18:30+00:00",
+    "updated_at": "2026-08-25T00:20:07+00:00",
     "job_id": 1,
     "project": "the-invite-2026"
   },
-  "last_backup": 1787617110
+  "last_backup": 1787617207
 }
